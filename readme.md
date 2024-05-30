@@ -1,8 +1,7 @@
 
 <div style="text-align: center">
-    <span style="font-size: 3em; font-weight: 700; font-family: Consolas">
-        Lab 01 <br>
-        A Gentle Introduction to Hadoop
+    <span style="font-size: 3em; font-weight: 700; font-family: Consolas"><br>
+        Streaming Data Processing with Spark
     </span>
     <br><br>
     <span style="">
